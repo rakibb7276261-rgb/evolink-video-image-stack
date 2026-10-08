@@ -1,0 +1,16 @@
+{
+  "assets": [
+    {
+      "file": "evolink.png",
+      "source_skill": "square-video-comparison/assets/evolink.png",
+      "sha256": "39bb2b714f76c0f652c3ab9b2fb8a34b09159c4c4f651e2e5f59141ead24c48e",
+      "usage": "white EvoLink logo inside the blue watermark label"
+    },
+    {
+      "file": "preview.png",
+      "source_path": "/Users/xinyun/Desktop/output/2026-10-06-Seedance+GPTImage2/poster.png",
+      "sha256": "52b0d8d2559469d386408c1fc06bcd6a762b6ad24dcd5baf400ce91efbe85d74",
+      "usage": "visual reference for the approved 8:9 top-video/bottom-image layout"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+interface:
+  display_name: "爆款样式：视频+图片上下拼接"
+  short_description: "将16:9视频与16:9图片拼成今日爆款的8:9上下版式"
+  brand_color: "#0758AA"
+  default_prompt: "Use $evolink-video-image-stack to turn one 16:9 video and one 16:9 image into the approved 8:9 top-video/bottom-image layout."
+
+policy:
+  allow_implicit_invocation: true
