@@ -202,7 +202,7 @@ def main():
         encoding="utf-8",
     )
     report = {
-        "skill": {"name": "evolink-video-image-stack", "version": "1.0.0"},
+        "skill": {"name": "evolink-video-image-stack", "version": "1.1.0"},
         "composition": "top video / bottom static image",
         "output": {"file": output.name, "width": WIDTH, "height": HEIGHT, "fps": FPS, "frames": frames, "duration_seconds": duration, "audio": args.audio},
         "watermark": {"position": "top video upper-right", "brand": "EvoLink.ai", "model_label": args.model_label.strip(), "label_size_px": [LABEL_W, BLUE_H], "vertical_gap_px": LABEL_GAP, "margins_px": {"right": 18, "top": LABEL_Y}},
